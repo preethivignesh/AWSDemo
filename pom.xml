@@ -67,9 +67,9 @@
                                 <timeoutSec>60</timeoutSec>
                             </artifactory>
                             <publisher>
-                                <contextUrl>http://localhost:8081/artifactory</contextUrl>
+                                <contextUrl>http://ec2-52-90-187-166.compute-1.amazonaws.com:8081/artifactory</contextUrl>
                                 <username>admin</username>
-                                <password>password</password>
+                                <password>R0ck$t4r</password>
                                 <repoKey>jenkins-release</repoKey>
                                 <snapshotRepoKey>jenkins-snapshot</snapshotRepoKey>
                             </publisher>
